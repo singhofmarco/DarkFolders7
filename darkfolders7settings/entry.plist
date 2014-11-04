@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = darkfolders7settings;
+	cell = PSLinkCell;
+	detail = darkfolders7settingsListController;
+	icon = darkfolders7settings.png;
+	isController = 1;
+	label = DarkFolders7;
+    };
+}
